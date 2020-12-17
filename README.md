@@ -1,2 +1,2 @@
 # goRecr
-A ffmpeg based video recorder in go
+A ffmpeg based screen recorder in go.
